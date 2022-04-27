@@ -1,0 +1,2 @@
+flag = 'MRCTF{076ec48409c9f5014a9ca1e84365d0d77a9fb06f}'
+
